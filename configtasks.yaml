@@ -1,0 +1,13 @@
+task_one:
+  description: >
+    Research and gather information about {any}.
+  expected_output: >
+    A comprehensive list of key findings about {any}.
+  agent: agent_one
+
+task_two:
+  description: >
+    Analyze the research findings and write a detailed report about {any}.
+  expected_output: >
+    A well-structured report summarizing all findings about {any}.
+  agent: agent_two
